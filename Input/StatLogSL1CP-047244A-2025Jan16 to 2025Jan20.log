@@ -1,0 +1,344 @@
+0E7 16JAN25 16:49:07.9  Track 2   EZ: 8    EX: 91                               
+0E7 16JAN25 16:49:08.2  Track 2   EZ: 0    EX: 91   CHK: 0                      
+0E7 16JAN25 16:49:08.6  Track 2 GCP Unhealthy                                   
+0E7 16JAN25 16:49:08.6  Track 2 GCP Transmitter Error                           
+3E9 16JAN25 16:49:09.0  Trk 2 Prime Deenergized due to Positive Start           
+3E9 16JAN25 16:49:09.0  Trk 2 DAX A Deenergized due to Positive Start           
+0E7 16JAN25 16:49:09.1  Track 2 Prime    Deenergized   ,EZ: 0   EX: 91          
+0E7 16JAN25 16:49:09.1  Track 2 Dax A    Deenergized   ,EZ: 0   EX: 91          
+0E7 16JAN25 16:49:10.2  OUT 2.1 Deenergized                                     
+0E7 16JAN25 16:49:10.2  OUT 2.2 Deenergized                                     
+0E7 16JAN25 16:49:21.2  DT Session Lost                                         
+0E7 16JAN25 16:49:48.5  DT Session Established                                  
+0E7 16JAN25 16:59:16.2  Track 2 GCP Low EZ Error                                
+0E7 16JAN25 17:28:59.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 16JAN25 17:28:59.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 16JAN25 18:29:26.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 16JAN25 18:29:26.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 16JAN25 19:29:50.8  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 16JAN25 19:29:50.8  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 16JAN25 20:30:16.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 16JAN25 20:30:16.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 16JAN25 21:30:41.4  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 16JAN25 21:30:41.4  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 16JAN25 22:31:09.0  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 16JAN25 22:31:09.0  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 16JAN25 23:31:36.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 16JAN25 23:31:36.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 00:32:02.9  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 00:32:02.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 01:32:30.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 01:32:30.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 02:00:29.8  DT Session Lost                                         
+0E7 17JAN25 02:00:36.9  DT Session Established                                  
+0E7 17JAN25 02:32:56.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 02:32:56.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 03:33:23.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 03:33:23.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 04:33:50.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 04:33:50.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 05:34:16.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 05:34:16.2  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 06:34:44.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 06:34:44.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 07:35:11.7  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 07:35:11.7  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 08:35:38.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 08:35:38.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 09:36:04.4  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 09:36:04.4  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 10:36:31.9  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 10:36:31.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 11:36:58.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 11:36:58.4  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 12:37:23.9  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 12:37:23.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 13:37:50.8  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 13:37:50.8  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 14:38:17.4  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 14:38:17.4  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 15:38:43.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 15:38:43.6  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 16:39:09.4  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 16:39:09.4  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 17:39:35.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 17:39:35.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 18:40:02.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 18:40:02.2  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 19:40:27.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 19:40:27.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 20:40:53.9  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 20:40:53.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 21:41:19.7  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 21:41:19.7  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 22:41:45.7  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 22:41:45.7  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 17JAN25 23:42:11.7  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 17JAN25 23:42:11.7  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 00:42:38.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 00:42:38.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 01:43:05.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 01:43:05.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 02:00:51.7  DT Session Lost                                         
+0E7 18JAN25 02:00:58.8  DT Session Established                                  
+0E7 18JAN25 02:43:31.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 02:43:31.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 03:43:58.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 03:43:58.2  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 04:44:25.7  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 04:44:25.7  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 05:44:52.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 05:44:52.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 06:45:18.4  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 06:45:18.4  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 07:45:45.9  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 07:45:45.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 08:46:12.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 08:46:12.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 09:46:38.8  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 09:46:38.8  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 10:47:04.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 10:47:04.2  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 11:47:30.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 11:47:30.2  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 12:47:56.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 12:47:56.2  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 13:48:22.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 13:48:22.6  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 14:48:48.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 14:48:48.6  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 15:49:13.4  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 15:49:13.4  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 16:49:39.7  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 16:49:39.7  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 17:50:05.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 17:50:05.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 18:50:32.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 18:50:32.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 19:50:58.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 19:50:58.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 20:51:24.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 20:51:24.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 21:51:51.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 21:51:51.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 22:52:17.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 22:52:17.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 18JAN25 23:52:44.0  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 18JAN25 23:52:44.0  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 00:53:10.9  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 00:53:10.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 01:53:37.8  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 01:53:37.8  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 02:00:36.9  DT Session Lost                                         
+0E7 19JAN25 02:00:44.9  DT Session Established                                  
+0E7 19JAN25 02:54:03.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 02:54:03.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 03:54:29.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 03:54:29.4  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 04:54:57.0  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 04:54:57.0  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 05:55:23.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 05:55:23.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 06:55:48.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 06:55:48.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 07:56:14.7  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 07:56:14.7  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 08:56:39.6  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 08:56:39.6  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 09:57:05.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 09:57:05.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 10:57:31.6  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 10:57:31.6  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 11:57:58.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 11:57:58.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 12:58:23.7  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 12:58:23.7  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 13:58:49.6  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 13:58:49.6  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 14:59:16.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 14:59:16.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 15:59:42.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 15:59:42.2  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 17:00:07.7  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 17:00:07.7  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 18:00:34.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 18:00:34.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 19:01:00.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 19:01:00.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 20:01:26.0  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 20:01:26.0  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 21:01:52.9  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 21:01:52.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 22:02:19.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 22:02:19.2  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 19JAN25 23:02:46.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 19JAN25 23:02:46.2  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 00:03:11.5  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 00:03:11.5  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 01:03:38.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 01:03:38.2  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 02:00:59.6  DT Session Lost                                         
+0E7 20JAN25 02:01:00.7  DT Session Established                                  
+0E7 20JAN25 02:04:03.9  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 02:04:03.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 03:04:30.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 03:04:30.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 04:04:57.9  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 04:04:57.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 05:05:25.0  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 05:05:25.0  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 06:05:52.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 06:05:52.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 07:06:19.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 07:06:19.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 08:06:45.6  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 08:06:45.6  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 09:07:11.3  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 09:07:11.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 10:07:37.6  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 10:07:37.6  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 11:08:04.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 11:08:04.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 12:08:31.2  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 12:08:31.3  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 13:08:57.8  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 13:08:57.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 14:09:24.9  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 14:09:24.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 15:09:51.1  Track 2   EZ: 0    EX: 91   CHK: 0                (main)
+0E7 20JAN25 15:09:51.1  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 15:39:58.8  DT Session Established                                  
+0E7 20JAN25 15:40:18.4  DT Session Lost                                         
+0E7 20JAN25 15:46:21.3  Track 2 GCP Recovering                                  
+0E7 20JAN25 15:46:50.9  Track 2 GCP Health Recovered                            
+0E7 20JAN25 15:46:50.9  Track 2 Prime    Energized                              
+0E7 20JAN25 15:46:50.9  Track 2 Dax A    Energized                              
+0E7 20JAN25 15:46:52.2  OUT 2.1 Energized                                       
+0E7 20JAN25 15:46:52.2  OUT 2.2 Energized                                       
+0E7 20JAN25 15:53:41.8  Track 2 Train Present                                   
+0E7 20JAN25 15:53:41.8  Track 2   EZ: 93   EX: 90   Speed: 73  mph              
+0E7 20JAN25 15:53:42.7  Track 2 Dax A   Deenergized ,EZ: 92  EX: 90  Spd: 57 mph
+0E7 20JAN25 15:53:43.4  Track 2   EZ: 90   EX: 90   Speed: 69  mph              
+0E7 20JAN25 15:53:43.8  OUT 2.2 Deenergized                                     
+0E7 20JAN25 15:53:44.3  Track 2 Prime   Deenergized ,EZ: 88  EX: 90  Spd: 79 mph
+0E7 20JAN25 15:53:45.0  Track 2   EZ: 86   EX: 90   Speed: 96  mph              
+0E7 20JAN25 15:53:45.4  OUT 2.1 Deenergized                                     
+0E7 20JAN25 15:53:46.2  Track 2   EZ: 82   EX: 90   Speed: 75  mph              
+0E7 20JAN25 15:53:47.8  Track 2   EZ: 79   EX: 90   Speed: 75  mph              
+0E7 20JAN25 15:53:49.4  Track 2   EZ: 76   EX: 91   Speed: 70  mph              
+0E7 20JAN25 15:53:51.4  Track 2   EZ: 80   EX: 90                               
+0E7 20JAN25 15:53:54.2  Track 2   EZ: 77   EX: 90                               
+0E7 20JAN25 15:53:55.3  Track 2 GCP IPS Detected                                
+0E7 20JAN25 15:53:55.7  Track 2   EZ: 74   EX: 91   Speed: 55  mph              
+0E7 20JAN25 15:53:56.9  Track 2   EZ: 70   EX: 91   Speed: 75  mph              
+0E7 20JAN25 15:53:57.7  Track 2   EZ: 67   EX: 91   Speed: 86  mph              
+0E7 20JAN25 15:53:59.2  Track 2   EZ: 64   EX: 91   Speed: 79  mph              
+0E7 20JAN25 15:54:01.7  Track 2   EZ: 61   EX: 91   Speed: 44  mph              
+0E7 20JAN25 15:54:03.3  Track 2   EZ: 58   EX: 91   Speed: 52  mph              
+0E7 20JAN25 15:54:05.2  Track 2   EZ: 55   EX: 91   Speed: 56  mph              
+0E7 20JAN25 15:54:06.8  Track 2   EZ: 52   EX: 91   Speed: 51  mph              
+0E7 20JAN25 15:54:11.5  Track 2   EZ: 49   EX: 91   Speed: 17  mph              
+0E7 20JAN25 15:54:13.5  Track 2   EZ: 45   EX: 91   Speed: 39  mph              
+0E7 20JAN25 15:54:13.9  Track 2   EZ: 42   EX: 91   Speed: 77  mph              
+0E7 20JAN25 15:54:14.7  Track 2   EZ: 39   EX: 91   Speed: 91  mph              
+0E7 20JAN25 15:54:15.5  Track 2   EZ: 36   EX: 91   Speed: 105 mph              
+0E7 20JAN25 15:54:18.6  Track 2   EZ: 33   EX: 91   Speed: 47  mph              
+0E7 20JAN25 15:54:20.9  Track 2   EZ: 30   EX: 91   Speed: 35  mph              
+0E7 20JAN25 15:54:23.8  Track 2   EZ: 27   EX: 91   Speed: 35  mph              
+0E7 20JAN25 15:54:30.5  Track 2   EZ: 24   EX: 91   Speed: 27  mph              
+0E7 20JAN25 15:54:33.7  Track 2   EZ: 21   EX: 91   Speed: 26  mph              
+0E7 20JAN25 15:54:37.6  Track 2   EZ: 18   EX: 91   Speed: 26  mph              
+0E7 20JAN25 15:54:41.2  Track 2   EZ: 15   EX: 91   Speed: 27  mph              
+0E7 20JAN25 15:54:47.5  Track 2   EZ: 12   EX: 91   Speed: 21  mph              
+0E7 20JAN25 15:55:01.4  Track 2   EZ: 26   EX: 91                               
+0E7 20JAN25 15:55:01.7  Track 2   EZ: 47   EX: 91   Speed: 56  mph              
+0E7 20JAN25 15:55:02.5  Track 2   EZ: 68   EX: 91                               
+0E7 20JAN25 15:55:03.0  Track 2   EZ: 90   EX: 91                               
+0E7 20JAN25 15:55:03.4  Track 2   EZ: 96   EX: 91                               
+0E7 20JAN25 15:55:11.6  Track 2 No Train Present                                
+0E7 20JAN25 15:55:33.4  Track 2 Prime    Energized                              
+0E7 20JAN25 15:55:33.4  Track 2 Dax A    Energized                              
+0E7 20JAN25 15:55:34.6  OUT 2.1 Energized                                       
+0E7 20JAN25 15:55:34.6  OUT 2.2 Energized                                       
+0E7 20JAN25 16:10:16.8  Track 2   EZ: 97   EX: 91   CHK: 97               (main)
+0E7 20JAN25 16:10:16.8  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 17:10:42.9  Track 2   EZ: 97   EX: 91   CHK: 96               (main)
+0E7 20JAN25 17:10:42.9  Track 3   EZ: 0    EX: 100  CHK: 0                (main)
+0E7 20JAN25 17:45:05.6  Track 2 Train Present                                   
+0E7 20JAN25 17:45:05.6  Track 2   EZ: 93   EX: 90   Speed: 66  mph              
+0E7 20JAN25 17:45:06.0  Track 2 Dax A   Deenergized ,EZ: 92  EX: 90  Spd: 56 mph
+0E7 20JAN25 17:45:07.2  Track 2 Prime   Deenergized ,EZ: 90  EX: 90  Spd: 61 mph
+0E7 20JAN25 17:45:07.2  Track 2   EZ: 90   EX: 90   Speed: 61  mph              
+0E7 20JAN25 17:45:07.2  OUT 2.2 Deenergized                                     
+0E7 20JAN25 17:45:08.3  Track 2   EZ: 86   EX: 90   Speed: 95  mph              
+0E7 20JAN25 17:45:08.3  OUT 2.1 Deenergized                                     
+0E7 20JAN25 17:45:09.5  Track 2   EZ: 83   EX: 90   Speed: 73  mph              
+0E7 20JAN25 17:45:10.7  Track 2   EZ: 80   EX: 90   Speed: 75  mph              
+0E7 20JAN25 17:45:12.3  Track 2   EZ: 77   EX: 91   Speed: 74  mph              
+0E7 20JAN25 17:45:17.4  Track 2   EZ: 74   EX: 90   Speed: 7   mph              
+0E7 20JAN25 17:45:18.6  Track 2   EZ: 71   EX: 91   Speed: 43  mph              
+0E7 20JAN25 17:45:20.9  Track 2   EZ: 68   EX: 91   Speed: 58  mph              
+0E7 20JAN25 17:45:22.9  Track 2   EZ: 65   EX: 91   Speed: 51  mph              
+0E7 20JAN25 17:45:24.5  Track 2   EZ: 62   EX: 90   Speed: 46  mph              
+0E7 20JAN25 17:45:26.1  Track 2   EZ: 59   EX: 90   Speed: 48  mph              
+0E7 20JAN25 17:45:28.1  Track 2   EZ: 56   EX: 90   Speed: 51  mph              
+0E7 20JAN25 17:45:30.1  Track 2   EZ: 53   EX: 91   Speed: 51  mph              
+0E7 20JAN25 17:45:34.4  Track 2   EZ: 50   EX: 92   Speed: 14  mph              
+0E7 20JAN25 17:45:36.4  Track 2   EZ: 47   EX: 93   Speed: 38  mph              
+0E7 20JAN25 17:45:37.6  Track 2   EZ: 43   EX: 90   Speed: 70  mph              
+0E7 20JAN25 17:45:38.0  Track 2   EZ: 40   EX: 87   Speed: 87  mph              
+0E7 20JAN25 17:45:39.2  Track 2   EZ: 36   EX: 83   Speed: 108 mph              
+0E7 20JAN25 17:45:41.9  Track 2   EZ: 33   EX: 82   Speed: 55  mph              
+0E7 20JAN25 17:45:44.3  Track 2   EZ: 30   EX: 80   Speed: 33  mph              
+0E7 20JAN25 17:45:47.4  Track 2   EZ: 27   EX: 80   Speed: 35  mph              
+0E7 20JAN25 17:45:54.2  Track 2   EZ: 24   EX: 78   Speed: 26  mph              
+0E7 20JAN25 17:45:57.7  Track 2   EZ: 21   EX: 76   Speed: 26  mph              
+0E7 20JAN25 17:46:00.9  Track 2   EZ: 19   EX: 73   Speed: 23  mph              
+0E7 20JAN25 17:46:02.2  Track 2 GCP EX Process Prediction                       
+0E7 20JAN25 17:46:02.2  Track 2   EZ: 18   EX: 70   Speed: 26  mph              
+0E7 20JAN25 17:46:05.3  Track 2   EZ: 15   EX: 69   Speed: 26  mph              
+0E7 20JAN25 17:46:11.6  Track 2   EZ: 12   EX: 69   Speed: 20  mph              
+0E7 20JAN25 17:46:36.9  Track 2   EZ: 16   EX: 72                               
+0E7 20JAN25 17:46:37.3  Track 2   EZ: 36   EX: 77   Speed: 56  mph              
+0E7 20JAN25 17:46:37.7  Track 2   EZ: 60   EX: 83                               
+0E7 20JAN25 17:46:38.5  Track 2   EZ: 81   EX: 88                               
+0E7 20JAN25 17:46:38.9  Track 2   EZ: 97   EX: 90                               
+0E7 20JAN25 17:46:39.7  Track 2   EZ: 94   EX: 90                               
+0E7 20JAN25 17:46:40.8  Track 2   EZ: 91   EX: 90                               
+0E7 20JAN25 17:46:42.0  Track 2   EZ: 88   EX: 90   Speed: 61  mph              
+0E7 20JAN25 17:46:43.2  Track 2 GCP IPS Detected                                
+0E7 20JAN25 17:46:43.2  Track 2   EZ: 85   EX: 90   Speed: 81  mph              
+0E7 20JAN25 17:46:44.9  Track 2   EZ: 82   EX: 90   Speed: 44  mph              
+0E7 20JAN25 17:46:45.9  Track 2   EZ: 79   EX: 90   Speed: 66  mph              
+0E7 20JAN25 17:46:47.6  Track 2   EZ: 76   EX: 90   Speed: 64  mph              
+0E7 20JAN25 17:46:52.7  Track 2   EZ: 73   EX: 90   Speed: 24  mph              
+0E7 20JAN25 17:46:54.7  Track 2   EZ: 70   EX: 90   Speed: 58  mph              
+0E7 20JAN25 17:46:55.9  Track 2   EZ: 67   EX: 90   Speed: 57  mph              
+0E7 20JAN25 17:46:57.9  Track 2   EZ: 64   EX: 90   Speed: 51  mph              
+0E7 20JAN25 17:46:59.8  Track 2   EZ: 61   EX: 90   Speed: 45  mph              
+0E7 20JAN25 17:47:01.4  Track 2   EZ: 58   EX: 90   Speed: 53  mph              
+0E7 20JAN25 17:47:03.4  Track 2   EZ: 55   EX: 90   Speed: 53  mph              
+0E7 20JAN25 17:47:05.4  Track 2   EZ: 52   EX: 90   Speed: 46  mph              
+0E7 20JAN25 17:47:10.1  Track 2   EZ: 49   EX: 90   Speed: 25  mph              
+0E7 20JAN25 17:47:11.7  Track 2   EZ: 45   EX: 90   Speed: 39  mph              
+0E7 20JAN25 17:47:12.1  Track 2   EZ: 42   EX: 90   Speed: 78  mph              
+0E7 20JAN25 17:47:12.8  Track 2   EZ: 39   EX: 90   Speed: 93  mph              
+0E7 20JAN25 17:47:13.7  Track 2   EZ: 36   EX: 90   Speed: 106 mph              
+0E7 20JAN25 17:47:17.3  Track 2   EZ: 33   EX: 90   Speed: 28  mph              
+0E7 20JAN25 17:47:19.3  Track 2   EZ: 30   EX: 90   Speed: 36  mph              
+0E7 20JAN25 17:47:22.4  Track 2   EZ: 27   EX: 90   Speed: 35  mph              
+0E7 20JAN25 17:47:29.1  Track 2   EZ: 24   EX: 90   Speed: 30  mph              
+0E7 20JAN25 17:47:32.6  Track 2   EZ: 21   EX: 90   Speed: 26  mph              
+0E7 20JAN25 17:47:35.9  Track 2   EZ: 18   EX: 90   Speed: 25  mph              
+0E7 20JAN25 17:47:39.4  Track 2   EZ: 15   EX: 90   Speed: 27  mph              
+0E7 20JAN25 17:47:45.7  Track 2   EZ: 12   EX: 90   Speed: 20  mph              
+0E7 20JAN25 17:47:58.4  Track 2   EZ: 33   EX: 90   Speed: 5   mph              
+0E7 20JAN25 17:47:58.8  Track 2   EZ: 54   EX: 90   Speed: 61  mph              
+0E7 20JAN25 17:47:59.2  Track 2   EZ: 75   EX: 90                               
+0E7 20JAN25 17:47:59.6  Track 2   EZ: 96   EX: 90                               
+0E7 20JAN25 17:48:07.9  Track 2 No Train Present                                
+0E7 20JAN25 17:48:29.6  Track 2 Prime    Energized                              
+0E7 20JAN25 17:48:29.6  Track 2 Dax A    Energized                              
+0E7 20JAN25 17:48:30.8  OUT 2.1 Energized                                       
+0E7 20JAN25 17:48:30.8  OUT 2.2 Energized                                       
+END OF BUFFER                                                                   
