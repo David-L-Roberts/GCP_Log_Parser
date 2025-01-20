@@ -7,14 +7,14 @@ class Main:
     def __init__(self) -> None:
         # get user to select data file to import
         file_path_read = self.user_select_file()
-        file_path_write = r'Output\processedLogData.csv'
+        file_path_write = r'Output\LogData_EZEX-List.csv'
 
         self.linesProcessed: int = 0
 
         with open(file_path_read, "r") as readFile:
             with open(file_path_write, "w") as writeFile:
                 # add headings to file
-                writeFile.write("DATE, TIME, TRACK NUM, EZ, EX, SPEED (mph), \n")
+                writeFile.write("DATE,TIME,TRACK NUM,EZ,EX,SPEED (mph),\n")
 
                 self.processFileData(readFile, writeFile)
 
@@ -52,7 +52,7 @@ class Main:
     def writeProcessedData(self, writeFile, dataList):
         for data in dataList:
             writeFile.write(data)
-            writeFile.write(", ")
+            writeFile.write(",")
         
         writeFile.write("\n")
         self.linesProcessed += 1
