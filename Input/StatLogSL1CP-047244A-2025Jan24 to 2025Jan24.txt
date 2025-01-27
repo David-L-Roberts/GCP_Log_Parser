@@ -1,0 +1,382 @@
+0E7 24JAN25 16:25:18.8  Track 2   EZ: 62   EX: 86   Speed: 13  mph              
+0E7 24JAN25 16:25:19.2  Track 2   EZ: 63   EX: 86   Speed: 1   mph              
+0E7 24JAN25 16:25:19.6  Track 2   EZ: 64   EX: 86   Speed: 12  mph              
+0E7 24JAN25 16:25:20.0  Track 2   EZ: 65   EX: 86   Speed: 19  mph              
+0E7 24JAN25 16:25:20.8  Track 2   EZ: 64   EX: 86   Speed: 19  mph              
+0E7 24JAN25 16:25:22.4  Track 2   EZ: 63   EX: 86   Speed: 15  mph              
+0E7 24JAN25 16:25:23.2  Track 2   EZ: 62   EX: 86   Speed: 10  mph              
+0E7 24JAN25 16:25:23.6  Track 2   EZ: 61   EX: 86   Speed: 22  mph              
+0E7 24JAN25 16:25:25.1  Track 2   EZ: 60   EX: 86   Speed: 30  mph              
+0E7 24JAN25 16:25:25.9  Track 2   EZ: 59   EX: 86   Speed: 30  mph              
+0E7 24JAN25 16:25:27.1  Track 2   EZ: 58   EX: 86   Speed: 31  mph              
+0E7 24JAN25 16:25:27.5  Track 2   EZ: 57   EX: 86   Speed: 31  mph              
+0E7 24JAN25 16:25:29.1  Track 2   EZ: 56   EX: 86   Speed: 31  mph              
+0E7 24JAN25 16:25:30.6  Track 2   EZ: 55   EX: 86   Speed: 29  mph              
+0E7 24JAN25 16:25:31.0  Track 2   EZ: 54   EX: 86   Speed: 28  mph              
+0E7 24JAN25 16:25:32.2  Track 2   EZ: 53   EX: 86   Speed: 26  mph              
+0E7 24JAN25 16:25:33.4  Track 2   EZ: 52   EX: 86   Speed: 27  mph              
+0E7 24JAN25 16:25:35.0  Track 2   EZ: 51   EX: 86   Speed: 24  mph              
+0E7 24JAN25 16:25:37.0  Track 2   EZ: 50   EX: 86   Speed: 20  mph              
+0E7 24JAN25 16:25:38.6  Track 2   EZ: 49   EX: 86   Speed: 20  mph              
+0E7 24JAN25 16:25:39.0  Track 2   EZ: 49   EX: 87   Speed: 22  mph              
+0E7 24JAN25 16:25:39.4  Track 2   EZ: 48   EX: 87   Speed: 23  mph              
+0E7 24JAN25 16:25:40.5  Track 2   EZ: 47   EX: 87   Speed: 25  mph              
+0E7 24JAN25 16:25:41.7  Track 2   EZ: 46   EX: 87   Speed: 25  mph              
+0E7 24JAN25 16:25:42.5  Track 2   EZ: 47   EX: 87   Speed: 17  mph              
+0E7 24JAN25 16:25:42.9  Track 2   EZ: 48   EX: 87   Speed: 7   mph              
+0E7 24JAN25 16:25:43.3  Track 2   EZ: 49   EX: 87   Speed: 4   mph              
+0E7 24JAN25 16:25:43.7  Track 2   EZ: 49   EX: 86   Speed: 14  mph              
+0E7 24JAN25 16:25:46.5  Track 2   EZ: 48   EX: 86   Speed: 9   mph              
+0E7 24JAN25 16:25:46.9  Track 2   EZ: 48   EX: 87   Speed: 1   mph              
+0E7 24JAN25 16:25:47.3  Track 2   EZ: 47   EX: 87   Speed: 11  mph              
+0E7 24JAN25 16:25:48.0  Track 2   EZ: 46   EX: 87   Speed: 24  mph              
+0E7 24JAN25 16:25:50.4  Track 2   EZ: 45   EX: 87   Speed: 26  mph              
+0E7 24JAN25 16:25:50.8  Track 2   EZ: 44   EX: 87   Speed: 28  mph              
+0E7 24JAN25 16:25:51.2  Track 2   EZ: 43   EX: 87   Speed: 30  mph              
+0E7 24JAN25 16:25:51.6  Track 2   EZ: 42   EX: 87   Speed: 33  mph              
+0E7 24JAN25 16:25:53.6  Track 2   EZ: 41   EX: 87   Speed: 33  mph              
+0E7 24JAN25 16:25:54.9  Track 2   EZ: 40   EX: 87   Speed: 28  mph              
+0E7 24JAN25 16:25:55.9  Track 2   EZ: 39   EX: 87   Speed: 22  mph              
+0E7 24JAN25 16:25:57.5  Track 2   EZ: 38   EX: 87   Speed: 22  mph              
+0E7 24JAN25 16:25:59.6  Track 2   EZ: 37   EX: 87   Speed: 17  mph              
+0E7 24JAN25 16:26:01.2  Track 2   EZ: 37   EX: 86   Speed: 16  mph              
+0E7 24JAN25 16:26:01.4  Track 2   EZ: 36   EX: 86   Speed: 16  mph              
+0E7 24JAN25 16:26:02.6  Track 2   EZ: 36   EX: 87   Speed: 17  mph              
+0E7 24JAN25 16:26:03.0  Track 2   EZ: 35   EX: 87   Speed: 18  mph              
+0E7 24JAN25 16:26:04.6  Track 2   EZ: 34   EX: 87   Speed: 20  mph              
+0E7 24JAN25 16:26:07.0  Track 2   EZ: 35   EX: 87   Speed: 3   mph              
+0E7 24JAN25 16:26:07.4  Track 2   EZ: 36   EX: 87   Speed: 6   mph              
+0E7 24JAN25 16:26:10.1  Track 2   EZ: 35   EX: 87   Speed: 12  mph              
+0E7 24JAN25 16:26:11.0  Track 2   EZ: 34   EX: 87   Speed: 4   mph              
+0E7 24JAN25 16:26:12.5  Track 2   EZ: 33   EX: 87   Speed: 20  mph              
+0E7 24JAN25 16:26:14.5  Track 2   EZ: 46   EX: 86   Speed: 41  mph              
+0E7 24JAN25 16:26:14.9  Track 2   EZ: 61   EX: 86   Speed: 41  mph              
+0E7 24JAN25 16:26:15.3  Track 2   EZ: 77   EX: 85                               
+0E7 24JAN25 16:26:16.2  Track 2   EZ: 92   EX: 85                               
+0E7 24JAN25 16:26:16.5  Track 2   EZ: 94   EX: 85                               
+0E7 24JAN25 16:26:17.3  Track 2   EZ: 93   EX: 85                               
+0E7 24JAN25 16:26:18.5  Track 2   EZ: 92   EX: 85                               
+0E7 24JAN25 16:26:18.9  Track 2   EZ: 91   EX: 85                               
+0E7 24JAN25 16:26:19.7  Track 2   EZ: 90   EX: 85   Speed: 21  mph              
+0E7 24JAN25 16:26:20.5  Track 2   EZ: 89   EX: 85   Speed: 40  mph              
+0E7 24JAN25 16:26:21.3  Track 2   EZ: 88   EX: 85   Speed: 40  mph              
+0E7 24JAN25 16:26:22.5  Track 2   EZ: 87   EX: 85   Speed: 38  mph              
+0E7 24JAN25 16:26:23.3  Track 2   EZ: 86   EX: 85   Speed: 33  mph              
+0E7 24JAN25 16:26:24.4  Track 2   EZ: 85   EX: 85   Speed: 30  mph              
+0E7 24JAN25 16:26:25.2  Track 2   EZ: 84   EX: 85   Speed: 30  mph              
+0E7 24JAN25 16:26:26.4  Track 2   EZ: 83   EX: 85   Speed: 30  mph              
+0E7 24JAN25 16:26:27.2  Track 2   EZ: 82   EX: 85   Speed: 34  mph              
+0E7 24JAN25 16:26:27.6  Track 2   EZ: 81   EX: 85   Speed: 36  mph              
+0E7 24JAN25 16:26:28.8  Track 2   EZ: 80   EX: 85   Speed: 37  mph              
+0E7 24JAN25 16:26:29.6  Track 2   EZ: 79   EX: 85   Speed: 37  mph              
+0E7 24JAN25 16:26:30.4  Track 2   EZ: 80   EX: 85   Speed: 30  mph              
+0E7 24JAN25 16:26:30.8  Track 2   EZ: 81   EX: 85   Speed: 14  mph              
+0E7 24JAN25 16:26:31.2  Track 2   EZ: 82   EX: 85   Speed: 2   mph              
+0E7 24JAN25 16:26:31.6  Track 2   EZ: 83   EX: 85   Speed: 17  mph              
+0E7 24JAN25 16:26:32.4  Track 2   EZ: 84   EX: 85   Speed: 26  mph              
+0E7 24JAN25 16:26:32.8  Track 2   EZ: 83   EX: 85   Speed: 26  mph              
+0E7 24JAN25 16:26:34.3  Track 2   EZ: 82   EX: 85   Speed: 19  mph              
+0E7 24JAN25 16:26:34.7  Track 2   EZ: 81   EX: 85   Speed: 3   mph              
+0E7 24JAN25 16:26:35.5  Track 2   EZ: 80   EX: 85   Speed: 28  mph              
+0E7 24JAN25 16:26:36.3  Track 2   EZ: 79   EX: 85   Speed: 36  mph              
+0E7 24JAN25 16:26:37.1  Track 2   EZ: 78   EX: 85   Speed: 36  mph              
+0E7 24JAN25 16:26:37.5  Track 2   EZ: 78   EX: 86   Speed: 36  mph              
+0E7 24JAN25 16:26:38.3  Track 2   EZ: 77   EX: 86   Speed: 37  mph              
+0E7 24JAN25 16:26:38.7  Track 2   EZ: 76   EX: 86   Speed: 40  mph              
+0E7 24JAN25 16:26:39.1  Track 2   EZ: 75   EX: 86   Speed: 44  mph              
+0E7 24JAN25 16:26:39.5  Track 2   EZ: 74   EX: 85   Speed: 48  mph              
+0E7 24JAN25 16:26:40.2  Track 2   EZ: 73   EX: 85   Speed: 51  mph              
+0E7 24JAN25 16:26:40.6  Track 2   EZ: 72   EX: 85   Speed: 50  mph              
+0E7 24JAN25 16:26:42.3  Track 2   EZ: 71   EX: 85   Speed: 48  mph              
+0E7 24JAN25 16:26:42.6  Track 2   EZ: 71   EX: 86   Speed: 43  mph              
+0E7 24JAN25 16:26:43.0  Track 2   EZ: 70   EX: 86   Speed: 39  mph              
+0E7 24JAN25 16:26:43.4  Track 2   EZ: 69   EX: 86   Speed: 35  mph              
+0E7 24JAN25 16:26:44.7  Track 2   EZ: 68   EX: 86   Speed: 32  mph              
+0E7 24JAN25 16:26:46.2  Track 2   EZ: 67   EX: 86   Speed: 32  mph              
+0E7 24JAN25 16:26:47.0  Track 2   EZ: 66   EX: 86   Speed: 28  mph              
+0E7 24JAN25 16:26:48.5  Track 2   EZ: 65   EX: 86   Speed: 24  mph              
+0E7 24JAN25 16:26:50.1  Track 2   EZ: 64   EX: 86   Speed: 23  mph              
+0E7 24JAN25 16:26:50.9  Track 2   EZ: 63   EX: 86   Speed: 26  mph              
+0E7 24JAN25 16:26:51.4  Track 2   EZ: 62   EX: 86   Speed: 28  mph              
+0E7 24JAN25 16:26:52.6  Track 2   EZ: 61   EX: 86   Speed: 30  mph              
+0E7 24JAN25 16:26:54.2  Track 2   EZ: 60   EX: 86   Speed: 30  mph              
+0E7 24JAN25 16:26:54.6  Track 2   EZ: 61   EX: 86   Speed: 20  mph              
+0E7 24JAN25 16:26:54.8  Track 2   EZ: 62   EX: 86   Speed: 7   mph              
+0E7 24JAN25 16:26:55.2  Track 2   EZ: 63   EX: 86   Speed: 5   mph              
+0E7 24JAN25 16:26:56.0  Track 2   EZ: 64   EX: 86   Speed: 17  mph              
+0E7 24JAN25 16:26:57.2  Track 2   EZ: 63   EX: 86   Speed: 20  mph              
+0E7 24JAN25 16:26:58.4  Track 2   EZ: 62   EX: 86   Speed: 10  mph              
+0E7 24JAN25 16:26:59.2  Track 2   EZ: 61   EX: 86   Speed: 14  mph              
+0E7 24JAN25 16:27:00.4  Track 2   EZ: 60   EX: 86   Speed: 29  mph              
+0E7 24JAN25 16:27:01.7  Track 2   EZ: 59   EX: 86   Speed: 29  mph              
+0E7 24JAN25 16:27:02.8  Track 2   EZ: 58   EX: 86   Speed: 29  mph              
+0E7 24JAN25 16:27:03.1  Track 2   EZ: 57   EX: 86   Speed: 30  mph              
+0E7 24JAN25 16:27:04.3  Track 2   EZ: 56   EX: 86   Speed: 31  mph              
+0E7 24JAN25 16:27:06.0  Track 2   EZ: 55   EX: 86   Speed: 30  mph              
+0E7 24JAN25 16:27:06.8  Track 2   EZ: 54   EX: 86   Speed: 29  mph              
+0E7 24JAN25 16:27:07.9  Track 2   EZ: 53   EX: 86   Speed: 27  mph              
+0E7 24JAN25 16:27:09.1  Track 2   EZ: 52   EX: 86   Speed: 26  mph              
+0E7 24JAN25 16:27:10.2  Track 2   EZ: 52   EX: 87   Speed: 25  mph              
+0E7 24JAN25 16:27:10.7  Track 2   EZ: 51   EX: 87   Speed: 24  mph              
+0E7 24JAN25 16:27:11.0  Track 2   EZ: 51   EX: 86   Speed: 22  mph              
+0E7 24JAN25 16:27:12.2  Track 2   EZ: 50   EX: 86   Speed: 20  mph              
+0E7 24JAN25 16:27:14.2  Track 2   EZ: 49   EX: 86   Speed: 19  mph              
+0E7 24JAN25 16:27:15.0  Track 2   EZ: 48   EX: 87   Speed: 22  mph              
+0E7 24JAN25 16:27:16.3  Track 2   EZ: 47   EX: 87   Speed: 25  mph              
+0E7 24JAN25 16:27:17.9  Track 2   EZ: 46   EX: 87   Speed: 25  mph              
+0E7 24JAN25 16:27:18.6  Track 2   EZ: 47   EX: 87   Speed: 12  mph              
+0E7 24JAN25 16:27:19.0  Track 2   EZ: 48   EX: 87   Speed: 2   mph              
+0E7 24JAN25 16:27:19.4  Track 2   EZ: 49   EX: 87   Speed: 8   mph              
+0E7 24JAN25 16:27:20.2  Track 2   EZ: 49   EX: 86   Speed: 17  mph              
+0E7 24JAN25 16:27:22.2  Track 2   EZ: 48   EX: 86   Speed: 16  mph              
+0E7 24JAN25 16:27:22.6  Track 2   EZ: 48   EX: 87   Speed: 5   mph              
+0E7 24JAN25 16:27:23.0  Track 2   EZ: 47   EX: 87   Speed: 5   mph              
+0E7 24JAN25 16:27:24.2  Track 2   EZ: 46   EX: 87   Speed: 24  mph              
+0E7 24JAN25 16:27:26.1  Track 2   EZ: 45   EX: 87   Speed: 24  mph              
+0E7 24JAN25 16:27:26.5  Track 2   EZ: 44   EX: 87   Speed: 26  mph              
+0E7 24JAN25 16:27:27.3  Track 2   EZ: 43   EX: 87   Speed: 31  mph              
+0E7 24JAN25 16:27:28.1  Track 2   EZ: 42   EX: 87   Speed: 34  mph              
+0E7 24JAN25 16:27:29.3  Track 2   EZ: 41   EX: 87   Speed: 33  mph              
+0E7 24JAN25 16:27:30.9  Track 2   EZ: 40   EX: 87   Speed: 27  mph              
+0E7 24JAN25 16:27:32.2  Track 2   EZ: 39   EX: 87   Speed: 22  mph              
+0E7 24JAN25 16:27:34.0  Track 2   EZ: 38   EX: 87   Speed: 22  mph              
+0E7 24JAN25 16:27:35.2  Track 2   EZ: 37   EX: 87   Speed: 18  mph              
+0E7 24JAN25 16:27:36.9  Track 2   EZ: 37   EX: 86   Speed: 16  mph              
+0E7 24JAN25 16:27:38.0  Track 2   EZ: 36   EX: 86   Speed: 16  mph              
+0E7 24JAN25 16:27:38.8  Track 2   EZ: 36   EX: 87   Speed: 17  mph              
+0E7 24JAN25 16:27:39.3  Track 2   EZ: 35   EX: 87   Speed: 19  mph              
+0E7 24JAN25 16:27:40.4  Track 2   EZ: 34   EX: 87   Speed: 20  mph              
+0E7 24JAN25 16:27:42.7  Track 2   EZ: 35   EX: 87   Speed: 8   mph              
+0E7 24JAN25 16:27:44.0  Track 2   EZ: 36   EX: 87   Speed: 9   mph              
+0E7 24JAN25 16:27:45.9  Track 2   EZ: 35   EX: 87   Speed: 14  mph              
+0E7 24JAN25 16:27:47.1  Track 2   EZ: 34   EX: 87   Speed: 7   mph              
+0E7 24JAN25 16:27:48.7  Track 2   EZ: 33   EX: 87   Speed: 20  mph              
+0E7 24JAN25 16:27:50.6  Track 2   EZ: 32   EX: 87   Speed: 17  mph              
+0E7 24JAN25 16:32:07.8  Track 2   EZ: 27   EX: 87                               
+0E7 24JAN25 16:32:08.2  Track 2   EZ: 19   EX: 87   Speed: 56  mph              
+0E7 24JAN25 16:32:08.5  Track 2   EZ: 12   EX: 87                               
+0E7 24JAN25 16:32:09.3  Track 2   EZ: 4    EX: 87   CHK: 5                      
+3E9 24JAN25 16:32:09.7  Trk 2 Prime Deenergized due to Positive Start           
+3E9 24JAN25 16:32:09.7  Trk 2 DAX A Deenergized due to Positive Start           
+0E7 24JAN25 16:32:09.8  Track 2   EZ: 2    EX: 87                               
+0E7 24JAN25 16:32:15.3  Track 2   EZ: 8    EX: 87                               
+0E7 24JAN25 16:32:15.6  Track 2   EZ: 15   EX: 87   Speed: 56  mph              
+0E7 24JAN25 16:32:16.0  Track 2   EZ: 23   EX: 87                               
+0E7 24JAN25 16:32:16.4  Track 2   EZ: 30   EX: 87                               
+0E7 24JAN25 16:32:17.2  Track 2   EZ: 32   EX: 87                               
+0E7 24JAN25 16:32:35.1  Track 2   EZ: 27   EX: 86                               
+0E7 24JAN25 16:32:35.5  Track 2   EZ: 20   EX: 87   Speed: 56  mph              
+0E7 24JAN25 16:32:35.9  Track 2   EZ: 12   EX: 87                               
+0E7 24JAN25 16:32:36.3  Track 2   EZ: 5    EX: 87   CHK: 5                      
+0E7 24JAN25 16:32:37.1  Track 2   EZ: 2    EX: 87                               
+0E7 24JAN25 16:34:50.1  DT Session Established                                  
+0E7 24JAN25 16:35:02.4  DT Session Lost                                         
+0E7 24JAN25 16:35:32.7  Track 2   EZ: 16   EX: 87                               
+0E7 24JAN25 16:35:33.1  Track 2   EZ: 39   EX: 87   Speed: 56  mph              
+0E7 24JAN25 16:35:33.5  Track 2   EZ: 62   EX: 87                               
+0E7 24JAN25 16:35:34.3  Track 2   EZ: 85   EX: 87                               
+0E7 24JAN25 16:35:34.7  Track 2   EZ: 94   EX: 87                               
+0E7 24JAN25 16:35:35.1  Track 2   EZ: 93   EX: 86   Speed: 11  mph              
+0E7 24JAN25 16:35:36.3  Track 2   EZ: 93   EX: 85   Speed: 6   mph              
+0E7 24JAN25 16:35:37.1  Track 2   EZ: 92   EX: 85   Speed: 15  mph              
+0E7 24JAN25 16:35:37.9  Track 2   EZ: 91   EX: 85   Speed: 38  mph              
+0E7 24JAN25 16:35:39.1  Track 2   EZ: 90   EX: 85   Speed: 32  mph              
+0E7 24JAN25 16:35:39.8  Track 2   EZ: 89   EX: 85   Speed: 35  mph              
+0E7 24JAN25 16:35:41.0  Track 2   EZ: 88   EX: 85   Speed: 33  mph              
+0E7 24JAN25 16:35:42.2  DT Session Lost                                         
+0E7 24JAN25 16:35:42.2  Track 2   EZ: 87   EX: 85   Speed: 28  mph              
+0E7 24JAN25 16:35:43.0  Track 2   EZ: 86   EX: 85   Speed: 28  mph              
+0E7 24JAN25 16:35:43.6  DT Session Established                                  
+0E7 24JAN25 16:35:44.2  Track 2   EZ: 85   EX: 85   Speed: 32  mph              
+0E7 24JAN25 16:35:44.6  Track 2   EZ: 84   EX: 85   Speed: 34  mph              
+0E7 24JAN25 16:35:45.4  Track 2   EZ: 83   EX: 85   Speed: 38  mph              
+0E7 24JAN25 16:35:45.8  Track 2   EZ: 82   EX: 85   Speed: 39  mph              
+0E7 24JAN25 16:35:46.9  Track 2   EZ: 81   EX: 85   Speed: 40  mph              
+0E7 24JAN25 16:35:48.5  Track 2   EZ: 82   EX: 85   Speed: 19  mph              
+0E7 24JAN25 16:35:48.9  Track 2   EZ: 83   EX: 85   Speed: 2   mph              
+0E7 24JAN25 16:35:49.3  Track 2   EZ: 85   EX: 85   Speed: 14  mph              
+0E7 24JAN25 16:35:51.3  Track 2   EZ: 84   EX: 85   Speed: 26  mph              
+0E7 24JAN25 16:35:52.5  Track 2   EZ: 83   EX: 85   Speed: 6   mph              
+0E7 24JAN25 16:35:52.9  Track 2   EZ: 82   EX: 85   Speed: 10  mph              
+0E7 24JAN25 16:35:53.3  Track 2   EZ: 81   EX: 85   Speed: 26  mph              
+0E7 24JAN25 16:35:54.5  Track 2   EZ: 80   EX: 85   Speed: 37  mph              
+0E7 24JAN25 16:35:55.3  Track 2   EZ: 79   EX: 85   Speed: 37  mph              
+0E7 24JAN25 16:35:56.4  Track 2   EZ: 78   EX: 85   Speed: 41  mph              
+0E7 24JAN25 16:35:56.8  Track 2   EZ: 76   EX: 85   Speed: 45  mph              
+0E7 24JAN25 16:35:57.2  Track 2   EZ: 75   EX: 85   Speed: 48  mph              
+0E7 24JAN25 16:35:57.6  Track 2   EZ: 74   EX: 85   Speed: 52  mph              
+0E7 24JAN25 16:35:58.8  Track 2   EZ: 73   EX: 85   Speed: 51  mph              
+0E7 24JAN25 16:35:59.6  Track 2   EZ: 72   EX: 85   Speed: 50  mph              
+0E7 24JAN25 16:36:00.8  Track 2   EZ: 71   EX: 85   Speed: 41  mph              
+0E7 24JAN25 16:36:01.2  Track 2   EZ: 70   EX: 85   Speed: 36  mph              
+0E7 24JAN25 16:36:02.0  Track 2   EZ: 69   EX: 85   Speed: 32  mph              
+0E7 24JAN25 16:36:03.5  Track 2   EZ: 68   EX: 85   Speed: 33  mph              
+0E7 24JAN25 16:36:04.8  Track 2   EZ: 67   EX: 85   Speed: 29  mph              
+0E7 24JAN25 16:36:06.3  Track 2   EZ: 66   EX: 85   Speed: 25  mph              
+0E7 24JAN25 16:36:07.5  Track 2   EZ: 71   EX: 85   Speed: 23  mph              
+0E7 24JAN25 16:36:08.3  Track 2   EZ: 79   EX: 85   Speed: 23  mph              
+0E7 24JAN25 16:36:08.7  Track 2   EZ: 87   EX: 85                               
+0E7 24JAN25 16:36:09.1  Track 2   EZ: 95   EX: 85                               
+0E7 24JAN25 16:36:09.6  Track 2   EZ: 97   EX: 85                               
+0E7 24JAN25 16:36:23.4  Track 2   EZ: 98   EX: 85   Speed: 15  mph              
+0E7 24JAN25 16:36:32.0  Track 2 No Train Present                                
+0E7 24JAN25 16:36:39.1  Track 2 Train Present                                   
+0E7 24JAN25 16:36:39.1  Track 2   EZ: 94   EX: 85   Speed: 58  mph              
+0E7 24JAN25 16:36:39.5  Track 2   EZ: 93   EX: 85   Speed: 53  mph              
+0E7 24JAN25 16:36:40.3  Track 2   EZ: 92   EX: 85   Speed: 53  mph              
+0E7 24JAN25 16:36:40.7  Track 2   EZ: 91   EX: 85   Speed: 32  mph              
+0E7 24JAN25 16:36:41.9  Track 2   EZ: 90   EX: 85   Speed: 33  mph              
+0E7 24JAN25 16:36:42.7  Track 2   EZ: 89   EX: 85   Speed: 35  mph              
+0E7 24JAN25 16:36:43.5  Track 2   EZ: 88   EX: 85   Speed: 36  mph              
+0E7 24JAN25 16:36:44.7  Track 2   EZ: 87   EX: 85   Speed: 33  mph              
+0E7 24JAN25 16:36:45.5  Track 2   EZ: 86   EX: 85   Speed: 32  mph              
+0E7 24JAN25 16:36:46.6  Track 2   EZ: 85   EX: 85   Speed: 32  mph              
+0E7 24JAN25 16:36:47.0  Track 2   EZ: 84   EX: 85   Speed: 34  mph              
+0E7 24JAN25 16:36:47.4  Track 2   EZ: 83   EX: 85   Speed: 36  mph              
+0E7 24JAN25 16:36:48.6  Track 2   EZ: 82   EX: 85   Speed: 40  mph              
+0E7 24JAN25 16:36:49.4  Track 2   EZ: 81   EX: 85   Speed: 40  mph              
+0E7 24JAN25 16:36:51.0  Track 2   EZ: 82   EX: 85   Speed: 14  mph              
+0E7 24JAN25 16:36:51.4  Track 2   EZ: 84   EX: 85   Speed: 2   mph              
+0E7 24JAN25 16:36:52.2  Track 2   EZ: 85   EX: 85   Speed: 19  mph              
+0E7 24JAN25 16:36:53.4  Track 2   EZ: 84   EX: 85   Speed: 26  mph              
+0E7 24JAN25 16:36:54.6  Track 2   EZ: 83   EX: 85   Speed: 17  mph              
+0E7 24JAN25 16:36:55.3  Track 2   EZ: 82   EX: 85   Speed: 15  mph              
+0E7 24JAN25 16:36:56.1  Track 2   EZ: 81   EX: 85   Speed: 31  mph              
+0E7 24JAN25 16:36:57.0  Track 2   EZ: 80   EX: 85   Speed: 37  mph              
+0E7 24JAN25 16:36:58.1  Track 2   EZ: 79   EX: 85   Speed: 37  mph              
+0E7 24JAN25 16:36:58.5  Track 2   EZ: 78   EX: 85   Speed: 38  mph              
+0E7 24JAN25 16:36:58.9  Track 2   EZ: 77   EX: 85   Speed: 42  mph              
+0E7 24JAN25 16:36:59.4  Track 2   EZ: 76   EX: 85   Speed: 46  mph              
+0E7 24JAN25 16:37:00.1  Track 2   EZ: 75   EX: 85   Speed: 49  mph              
+0E7 24JAN25 16:37:00.5  Track 2   EZ: 74   EX: 85   Speed: 52  mph              
+0E7 24JAN25 16:37:01.4  Track 2   EZ: 73   EX: 85   Speed: 51  mph              
+0E7 24JAN25 16:37:02.5  Track 2   EZ: 72   EX: 85   Speed: 48  mph              
+0E7 24JAN25 16:37:03.2  Track 2   EZ: 71   EX: 85   Speed: 39  mph              
+0E7 24JAN25 16:37:04.1  Track 2   EZ: 70   EX: 85   Speed: 35  mph              
+0E7 24JAN25 16:37:04.8  Track 2   EZ: 69   EX: 85   Speed: 32  mph              
+0E7 24JAN25 16:37:06.5  Track 2   EZ: 68   EX: 85   Speed: 32  mph              
+0E7 24JAN25 16:37:07.3  Track 2   EZ: 67   EX: 85   Speed: 29  mph              
+0E7 24JAN25 16:37:08.9  Track 2   EZ: 66   EX: 85   Speed: 25  mph              
+0E7 24JAN25 16:37:09.9  Track 2   EZ: 65   EX: 85   Speed: 24  mph              
+0E7 24JAN25 16:37:10.8  Track 2   EZ: 64   EX: 85   Speed: 26  mph              
+0E7 24JAN25 16:37:11.2  Track 2   EZ: 64   EX: 86   Speed: 27  mph              
+0E7 24JAN25 16:37:12.0  Track 2   EZ: 63   EX: 86   Speed: 29  mph              
+0E7 24JAN25 16:37:12.8  Track 2   EZ: 62   EX: 86   Speed: 31  mph              
+0E7 24JAN25 16:37:13.9  Track 2   EZ: 61   EX: 86   Speed: 31  mph              
+0E7 24JAN25 16:37:14.8  Track 2   EZ: 62   EX: 86   Speed: 19  mph              
+0E7 24JAN25 16:37:15.1  Track 2   EZ: 63   EX: 86   Speed: 7   mph              
+0E7 24JAN25 16:37:15.5  Track 2   EZ: 64   EX: 86   Speed: 6   mph              
+0E7 24JAN25 16:37:16.3  Track 2   EZ: 65   EX: 86   Speed: 18  mph              
+0E7 24JAN25 16:37:17.1  Track 2   EZ: 64   EX: 86   Speed: 19  mph              
+0E7 24JAN25 16:37:18.6  Track 2   EZ: 63   EX: 86   Speed: 8   mph              
+0E7 24JAN25 16:37:19.1  Track 2   EZ: 62   EX: 86   Speed: 4   mph              
+0E7 24JAN25 16:37:20.2  Track 2   EZ: 61   EX: 86   Speed: 29  mph              
+0E7 24JAN25 16:37:21.0  Track 2   EZ: 60   EX: 86   Speed: 30  mph              
+0E7 24JAN25 16:37:22.6  Track 2   EZ: 59   EX: 86   Speed: 31  mph              
+0E7 24JAN25 16:37:23.1  Track 2   EZ: 58   EX: 86   Speed: 31  mph              
+0E7 24JAN25 16:37:24.2  Track 2   EZ: 57   EX: 86   Speed: 32  mph              
+0E7 24JAN25 16:37:25.0  Track 2   EZ: 56   EX: 86   Speed: 32  mph              
+0E7 24JAN25 16:37:26.6  Track 2   EZ: 55   EX: 86   Speed: 31  mph              
+0E7 24JAN25 16:37:27.8  Track 2   EZ: 54   EX: 86   Speed: 28  mph              
+0E7 24JAN25 16:37:28.6  Track 2   EZ: 53   EX: 86   Speed: 27  mph              
+0E7 24JAN25 16:37:30.2  Track 2   EZ: 52   EX: 86   Speed: 27  mph              
+0E7 24JAN25 16:37:31.3  Track 2   EZ: 51   EX: 86   Speed: 23  mph              
+0E7 24JAN25 16:37:32.9  Track 2   EZ: 50   EX: 86   Speed: 20  mph              
+0E7 24JAN25 16:37:34.5  Track 2   EZ: 49   EX: 86   Speed: 20  mph              
+0E7 24JAN25 16:37:34.9  Track 2   EZ: 49   EX: 87   Speed: 21  mph              
+0E7 24JAN25 16:37:35.3  Track 2   EZ: 48   EX: 87   Speed: 23  mph              
+0E7 24JAN25 16:37:36.5  Track 2   EZ: 47   EX: 87   Speed: 25  mph              
+0E7 24JAN25 16:37:39.2  Track 2   EZ: 48   EX: 87   Speed: 1   mph              
+0E7 24JAN25 16:37:40.0  Track 2   EZ: 49   EX: 87   Speed: 9   mph              
+0E7 24JAN25 16:37:40.4  Track 2   EZ: 50   EX: 86   Speed: 17  mph              
+0E7 24JAN25 16:37:40.8  Track 2   EZ: 49   EX: 86   Speed: 17  mph              
+0E7 24JAN25 16:37:42.4  Track 2   EZ: 48   EX: 86   Speed: 14  mph              
+0E7 24JAN25 16:37:42.8  Track 2   EZ: 48   EX: 87   Speed: 4   mph              
+0E7 24JAN25 16:37:43.2  Track 2   EZ: 47   EX: 87   Speed: 6   mph              
+0E7 24JAN25 16:37:44.4  Track 2   EZ: 46   EX: 87   Speed: 24  mph              
+0E7 24JAN25 16:37:46.4  Track 2   EZ: 45   EX: 87   Speed: 24  mph              
+0E7 24JAN25 16:37:46.9  Track 2   EZ: 44   EX: 87   Speed: 27  mph              
+0E7 24JAN25 16:37:47.9  Track 2   EZ: 43   EX: 87   Speed: 32  mph              
+0E7 24JAN25 16:37:48.3  Track 2   EZ: 42   EX: 86   Speed: 34  mph              
+0E7 24JAN25 16:37:49.9  Track 2   EZ: 41   EX: 86   Speed: 33  mph              
+0E7 24JAN25 16:37:51.1  Track 2   EZ: 40   EX: 86   Speed: 27  mph              
+0E7 24JAN25 16:37:52.3  Track 2   EZ: 39   EX: 86   Speed: 22  mph              
+0E7 24JAN25 16:37:54.2  Track 2   EZ: 38   EX: 87   Speed: 22  mph              
+0E7 24JAN25 16:37:55.9  Track 2   EZ: 37   EX: 87   Speed: 18  mph              
+0E7 24JAN25 16:37:56.3  Track 2   EZ: 37   EX: 86   Speed: 17  mph              
+0E7 24JAN25 16:37:58.2  Track 2   EZ: 36   EX: 86   Speed: 16  mph              
+0E7 24JAN25 16:37:59.0  Track 2   EZ: 36   EX: 87   Speed: 18  mph              
+0E7 24JAN25 16:37:59.8  Track 2   EZ: 35   EX: 87   Speed: 19  mph              
+0E7 24JAN25 16:38:00.6  Track 2   EZ: 34   EX: 87   Speed: 20  mph              
+0E7 24JAN25 16:38:02.9  Track 2   EZ: 35   EX: 87   Speed: 7   mph              
+0E7 24JAN25 16:38:04.2  Track 2   EZ: 36   EX: 87   Speed: 10  mph              
+0E7 24JAN25 16:38:06.2  Track 2   EZ: 35   EX: 87   Speed: 13  mph              
+0E7 24JAN25 16:38:07.8  Track 2   EZ: 34   EX: 87   Speed: 9   mph              
+0E7 24JAN25 16:38:08.6  Track 2   EZ: 33   EX: 87   Speed: 20  mph              
+0E7 24JAN25 16:38:10.9  Track 2   EZ: 32   EX: 87   Speed: 17  mph              
+0E7 24JAN25 16:38:11.3  Track 2   EZ: 32   EX: 86   Speed: 15  mph              
+0E7 24JAN25 16:38:14.1  Track 2   EZ: 31   EX: 86   Speed: 11  mph              
+0E7 24JAN25 16:38:15.7  Track 2   EZ: 30   EX: 86   Speed: 16  mph              
+0E7 24JAN25 16:38:16.8  Track 2   EZ: 29   EX: 86   Speed: 18  mph              
+0E7 24JAN25 16:38:19.2  Track 2   EZ: 28   EX: 86   Speed: 16  mph              
+0E7 24JAN25 16:38:21.2  Track 2   EZ: 27   EX: 86   Speed: 14  mph              
+0E7 24JAN25 16:38:23.2  Track 2   EZ: 26   EX: 86   Speed: 16  mph              
+0E7 24JAN25 16:38:24.7  Track 2   EZ: 25   EX: 86   Speed: 18  mph              
+0E7 24JAN25 16:38:27.5  Track 2   EZ: 26   EX: 86   Speed: 3   mph              
+0E7 24JAN25 16:38:27.9  Track 2   EZ: 27   EX: 86   Speed: 5   mph              
+0E7 24JAN25 16:38:29.1  Track 2   EZ: 27   EX: 85   Speed: 12  mph              
+0E7 24JAN25 16:38:30.3  Track 2   EZ: 26   EX: 85   Speed: 12  mph              
+0E7 24JAN25 16:38:32.0  Track 2   EZ: 25   EX: 85   Speed: 10  mph              
+0E7 24JAN25 16:38:33.8  Track 2   EZ: 24   EX: 85   Speed: 17  mph              
+0E7 24JAN25 16:38:35.1  Track 2   EZ: 23   EX: 85   Speed: 20  mph              
+0E7 24JAN25 16:38:36.2  Track 2   EZ: 22   EX: 84   Speed: 23  mph              
+0E7 24JAN25 16:38:37.8  Track 2   EZ: 21   EX: 84   Speed: 23  mph              
+0E7 24JAN25 16:38:39.7  Track 2   EZ: 20   EX: 84   Speed: 18  mph              
+0E7 24JAN25 16:38:40.9  Track 2   EZ: 20   EX: 83   Speed: 16  mph              
+0E7 24JAN25 16:38:41.7  Track 2   EZ: 19   EX: 83   Speed: 16  mph              
+0E7 24JAN25 16:38:44.1  Track 2   EZ: 18   EX: 83   Speed: 12  mph              
+0E7 24JAN25 16:38:46.9  Track 2   EZ: 17   EX: 83   Speed: 13  mph              
+0E7 24JAN25 16:38:47.6  Track 2   EZ: 17   EX: 82   Speed: 13  mph              
+0E7 24JAN25 16:38:48.5  Track 2   EZ: 16   EX: 82   Speed: 15  mph              
+0E7 24JAN25 16:38:50.9  Track 2   EZ: 16   EX: 83   Speed: 7   mph              
+0E7 24JAN25 16:38:51.7  Track 2   EZ: 17   EX: 83   Speed: 1   mph              
+0E7 24JAN25 16:38:52.5  Track 2   EZ: 18   EX: 83   Speed: 9   mph              
+0E7 24JAN25 16:38:52.9  Track 2   EZ: 17   EX: 83   Speed: 10  mph              
+0E7 24JAN25 16:38:55.6  Track 2   EZ: 16   EX: 83   Speed: 4   mph              
+0E7 24JAN25 16:38:57.6  Track 2   EZ: 15   EX: 83   Speed: 15  mph              
+0E7 24JAN25 16:38:58.4  Track 2   EZ: 15   EX: 82   Speed: 15  mph              
+0E7 24JAN25 16:38:58.8  Track 2   EZ: 15   EX: 83   Speed: 15  mph              
+0E7 24JAN25 16:38:59.5  Track 2   EZ: 14   EX: 83   Speed: 15  mph              
+0E7 24JAN25 16:39:00.7  Track 2   EZ: 13   EX: 82   Speed: 16  mph              
+0E7 24JAN25 16:39:03.5  Track 2   EZ: 12   EX: 82   Speed: 15  mph              
+0E7 24JAN25 16:39:03.9  Track 2   EZ: 12   EX: 81   Speed: 14  mph              
+0E7 24JAN25 16:39:05.9  Track 2   EZ: 11   EX: 81   Speed: 13  mph              
+0E7 24JAN25 16:39:07.0  Track 2   EZ: 11   EX: 87   Speed: 12  mph              
+0E7 24JAN25 16:39:08.6  Track 2   EZ: 10   EX: 87   Speed: 10  mph              
+0E7 24JAN25 16:39:11.8  Track 2   EZ: 9    EX: 87   Speed: 12  mph              
+0E7 24JAN25 16:39:14.2  Track 2   EZ: 8    EX: 87   Speed: 13  mph              
+0E7 24JAN25 16:39:14.6  Track 2   EZ: 9    EX: 87   Speed: 9   mph              
+0E7 24JAN25 16:39:16.1  Track 2   EZ: 10   EX: 87   Speed: 7   mph              
+0E7 24JAN25 16:39:18.5  Track 2   EZ: 9    EX: 87   Speed: 6   mph              
+0E7 24JAN25 16:39:20.5  Track 2   EZ: 8    EX: 87   Speed: 13  mph              
+0E7 24JAN25 16:39:22.9  Track 2   EZ: 7    EX: 87   Speed: 14  mph              
+0E7 24JAN25 16:39:24.1  Track 2   EZ: 6    EX: 87   Speed: 16  mph              
+0E7 24JAN25 16:39:26.9  Track 2   EZ: 5    EX: 87   CHK: 8                      
+0E7 24JAN25 16:39:30.0  Track 2   EZ: 4    EX: 87   Speed: 11  mph              
+0E7 24JAN25 16:39:34.4  Track 2   EZ: 3    EX: 87   Speed: 11  mph              
+0E7 24JAN25 16:39:44.3  Track 2   EZ: 2    EX: 87   Speed: 11  mph              
+0E7 24JAN25 16:40:15.9  DT Session Lost                                         
+0E7 24JAN25 16:40:42.4  DT Session Established                                  
+0E7 24JAN25 16:41:06.1  Track 2   EZ: 14   EX: 87                               
+0E7 24JAN25 16:41:06.9  Track 2   EZ: 37   EX: 87   Speed: 56  mph              
+0E7 24JAN25 16:41:07.3  Track 2   EZ: 60   EX: 87                               
+0E7 24JAN25 16:41:07.7  Track 2   EZ: 83   EX: 87                               
+0E7 24JAN25 16:41:08.1  Track 2   EZ: 95   EX: 87                               
+0E7 24JAN25 16:41:08.8  Track 2   EZ: 95   EX: 86   Speed: 42  mph              
+0E7 24JAN25 16:41:09.6  Track 2   EZ: 96   EX: 85   Speed: 43  mph              
+0E7 24JAN25 16:41:10.0  Track 2   EZ: 97   EX: 85   Speed: 42  mph              
+0E7 24JAN25 16:41:11.2  Track 2   EZ: 98   EX: 85                               
+0E7 24JAN25 16:41:25.1  Track 2 No Train Present                                
+0E7 24JAN25 16:50:02.3  DT Session Established                                  
+0E7 24JAN25 16:50:14.7  DT Session Lost                                         
+END OF BUFFER                                                                   
